@@ -1,2 +1,0 @@
-# DerbyWare
-Created with CodeSandbox
